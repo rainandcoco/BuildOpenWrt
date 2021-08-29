@@ -24,7 +24,7 @@ env:
   TZ: Asia/Shanghai
 
 jobs:
-  BuildFireware:
+  BuildFirmware:
     runs-on: ubuntu-20.04
 
     steps:
